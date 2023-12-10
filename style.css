@@ -726,7 +726,7 @@ header .text img {
   border: solid 7px;
   border-color: #ccc transparent transparent;
   position: absolute;
-  top: 25px;
+  top: 30px;
   left: 80%;
   translate: -50%;
 }
