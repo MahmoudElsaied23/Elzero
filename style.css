@@ -1040,7 +1040,7 @@ header .text img {
 
 .stats {
   text-align: center;
-  background: url("/Files/Images/white-paper.jpg");
+  background: url("Files/Images/white-paper.jpg");
 }
 .stats .container {
   gap: 20px;
@@ -1116,7 +1116,7 @@ header .text img {
   font-size: 38px;
 }
 .discount .details {
-  background: url(/Files/Images/percentage1.jpg);
+  background: url(Files/Images/percentage1.jpg);
   background-size: cover;
   padding-block: 50px;
   margin-block: -100px 150px;
